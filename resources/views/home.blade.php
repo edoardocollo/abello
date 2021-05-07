@@ -20,4 +20,13 @@
         </div>
     </div>
 </div>
+<h1>hello Abello!</h1>
+<nav>
+  <ul>
+    <li>
+      <a href="{{route('categories.index')}}">CATEGORIE</a>
+    </li>
+  </ul>
+</nav>
+
 @endsection
